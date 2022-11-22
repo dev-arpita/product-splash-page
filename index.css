@@ -97,7 +97,7 @@ p {
 .img-main {
     width: 120px;
     border-radius: 50%;
-    box-shadow: 0 0 20px #2e2457;
+    box-shadow: 0 0 10px #2e2457;
 }
 .main-content p,
 form {
